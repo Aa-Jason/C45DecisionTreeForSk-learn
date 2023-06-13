@@ -1,4 +1,4 @@
-# C45DecisionTreeForSk-learn
+# C45 DecisionTree For Sk-learn
 
 ## This is a C4.5 decision tree implementation perfectly adapted to the sk-learn interface, you can copy it into your project and use it directly.
 
